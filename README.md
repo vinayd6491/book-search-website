@@ -6,7 +6,7 @@ This website is useful for users who want to discover new books, check book deta
 
 ⭐ Key Features:
 
-Search books quickly by title or keywords
+
 
 Display book details such as title, author, and description
 
